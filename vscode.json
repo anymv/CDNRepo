@@ -5,5 +5,6 @@
     "editor.quickSuggestions": null,
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.cursorStyle": "line-thin"
+    "editor.cursorStyle": "line-thin",
+    "vsicons.dontShowNewVersionMessage": true
 }
