@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Radical",
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.quickSuggestions": null,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "line-thin"
+}
