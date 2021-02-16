@@ -8,5 +8,6 @@
     "editor.cursorStyle": "line-thin",
     "vsicons.dontShowNewVersionMessage": true,
     "liveServer.settings.port": 11929,
-    "liveServer.settings.root": "/live"
+    "liveServer.settings.root": "/live",
+    "git.autofetch": true
 }
